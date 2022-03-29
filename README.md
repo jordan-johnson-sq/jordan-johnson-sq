@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on analyzing financial statements of public companies. 
+- 🔭 I’m currently working on a project to analyze financial statements of public companies. 
 - 🌱 I’m currently learning the commandline in linux and about creating a personal workflow. 
 - 👯 I’m looking to collaborate on productivity applications, scientific research, and projects for humanitarian needs. 
 - 🤔 I’m looking for help with meeting people in the industry. 
