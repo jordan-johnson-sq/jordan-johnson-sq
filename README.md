@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on productivity applications, scientific research, and projects for humanitarian needs. 
 - 🤔 I’m looking for help with meeting people in the industry. 
 - 💬 Ask me about my travels. 
-- 📫 How to reach me: radonj.sohnonj@gmail.com or (408)823-5590
-- 😄 Pronouns: He/him/dude
+- 📫 How to reach me: radonj.sohnonj@gmail.com
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: I was in a breakdance club. 
 
